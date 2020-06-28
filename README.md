@@ -14,4 +14,4 @@ This includes:
   * cpp and .net random numbers
 * More sampling tables
 * The matlab script used for the analysis
-* More test scene configurations and boundary objects for splishsplash  
+* More test scene configurations and boundary objects for SPlisHSPlasH  
