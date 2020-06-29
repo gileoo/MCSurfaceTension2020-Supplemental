@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PreCompHalton", "PreCompHalton.fsproj", "{00874574-8DF1-4252-9E68-C3095168B196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00874574-8DF1-4252-9E68-C3095168B196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00874574-8DF1-4252-9E68-C3095168B196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00874574-8DF1-4252-9E68-C3095168B196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00874574-8DF1-4252-9E68-C3095168B196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FB55629-A8C3-43C3-8488-2B536FEA0B2D}
+	EndGlobalSection
+EndGlobal
