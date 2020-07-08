@@ -133,14 +133,14 @@ let main argv =
         exportCppVec3Array (sprintf "blueVec3%d%d" cols samples) bluePts 
 
 
-    let nr = 4096 // * 4
+    let nr = 16384 // 4096 // * 4
 
     doHaltonPair nr 2 3
     doHaltonPair nr 3 4
     doHaltonPair nr 4 5
     doHaltonPair nr 5 6
 
-    doRandomPair size 0
+    doRandomPair nr 0
 
     doBlueNoiseTable 1 nr 
 
