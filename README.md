@@ -8,7 +8,7 @@ Zorilla, F.; Ritter, M.; Sappl, J.; Rauch, W.; Harders, M. Accelerating Surface 
 https://doi.org/10.3390/computers9020023
 
 This includes:
-* Code to generate the sampling tables
+* F# Code to generate the sampling tables
   * Halton23, 45, 56
   * BlueNoise
   * cpp and .net random numbers
