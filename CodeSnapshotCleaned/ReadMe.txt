@@ -1,0 +1,1 @@
+This is a cleaned state snapshot of the code by Fernano Zorilla and Marcel Ritter, containing more content than the one pull-requested into the splishsplash library. E.g. rich data output and training data generation. 
