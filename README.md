@@ -15,3 +15,6 @@ This includes:
 * More sampling tables
 * The matlab script used for the analysis
 * More test scene configurations and boundary objects for SPlisHSPlasH  
+
+Please find the souce code in the surface tension section of SPlisHSPlasH (forked and pull-requested)
+https://github.com/gileoo/SPlisHSPlasH/tree/master/SPlisHSPlasH/SurfaceTension
