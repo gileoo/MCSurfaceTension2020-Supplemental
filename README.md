@@ -1,5 +1,5 @@
 # Accelerating Surface Tension Calculation in SPH via Particle Classification and Monte Carlo Integration 
-## Supplemental Material
+## Supplementary Material
 
 This repository provides supplemental material for:
 
