@@ -17,4 +17,5 @@ This includes:
 * More test scene configurations and boundary objects for SPlisHSPlasH  
 
 Please find the souce code in the surface tension section of SPlisHSPlasH:
+
 https://github.com/InteractiveComputerGraphics/SPlisHSPlasH
